@@ -4,4 +4,4 @@
 
  Curso de Java, CursoemVideo - Nível Básico
 
- Este repositório contém prints dos slides do Gustavo Guanabara que julguei ser imprtante para entender bem a parte teórica, para depois serem colocados em prática em meus códigos!
+ Este repositório contém prints dos slides do Gustavo Guanabara que julguei ser imprtantes para entender bem a parte teórica, para depois serem colocados em prática em meus códigos!

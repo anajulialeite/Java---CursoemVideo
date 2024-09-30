@@ -1,4 +1,4 @@
-# Java---CursoemVideo
+# Java
 
 <div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" align="left" width="165"/></div>
 

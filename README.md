@@ -9,3 +9,7 @@ Este repositório contém prints dos slides do Gustavo Guanabara que julguei ser
 Este repositório foi criado apenas para me auxiliar e compreender a matéria de Java que estava sendo ministrada na faculdade. Praticar a lógica de programação que é igual para qualquer linguagem e praticar exercícios em Java. 
 
 Link de como baixar o IntelliJ Idea: https://www.youtube.com/watch?v=xRBd2l580Ac&t=807s
+
+# License
+
+[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](./LICENSE)

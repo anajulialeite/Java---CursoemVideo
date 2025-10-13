@@ -8,7 +8,7 @@ Este repositório contém prints dos slides do Gustavo Guanabara que julguei ser
 
 Este repositório foi criado apenas para me auxiliar e compreender a matéria de Java que estava sendo ministrada na faculdade. Praticar a lógica de programação que é igual para qualquer linguagem e praticar exercícios em Java. 
 
-## Link Útil
+## Link útil
 
 Link de como baixar o <a href= "https://www.youtube.com/watch?v=xRBd2l580Ac&t=807s/">IntelliJ Idea</a>
 

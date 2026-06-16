@@ -12,6 +12,10 @@ Este repositório foi criado apenas para me auxiliar e compreender a matéria de
 
 Link de como baixar o <a href= "https://www.youtube.com/watch?v=xRBd2l580Ac&t=807s/">IntelliJ Idea</a>
 
+Link do curso de <a href= "https://www.cursoemvideo.com/curso/java-basico/">Java</a>
+
+Link do curso de <a href= "https://www.cursoemvideo.com/curso/java-poo/">Java POO</a>
+
 ## License
 
 [![MIT License](https://img.shields.io/badge/License-MIT-%231C003F.svg)](./LICENSE)
